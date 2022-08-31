@@ -15,8 +15,7 @@ const ApplicationScreen = () => {
                 fontWeight: 'bold', 
                 fontSize: 30,
                 color: 'black',
-                alignSelf: 'center',
-                fontFamily: 'LeeSeoyun',
+                alignSelf: 'center'
                 }}>
                     수거 신청
             </Text>
